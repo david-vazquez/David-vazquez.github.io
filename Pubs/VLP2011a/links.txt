@@ -1,0 +1,3 @@
+Pedestrian detection, http://www.cvc.uab.es/adas/site/?q=node/16
+Virtual pedestrian dataset, http://www.cvc.uab.es/adas/site/?q=node/7
+Domain Adaptation, http://adas.cvc.uab.es/domainadaptation

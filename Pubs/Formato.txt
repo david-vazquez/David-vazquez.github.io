@@ -1,0 +1,17 @@
+Explicaciones estructura ficheros para publicaciones
+
+1. Una carpeta para cada paper. El nombre de la carpeta corresponde con el call number del refBase
+2. Dentro de cada carpeta hay:
+ 2.1 Ficheros pdf de los que puede haber:
+   a) poster.pdf que llevaría el título de "Poster" y el icono del pdf
+   b) slides.pdf que llevaría el título de "Slides" y el icono del pdf
+   c) otros pdfs que llevarían el título del nombre del fichero y el icono del pdf
+ 2.2 Links. Para ello hay un fichero que se llama links.txt que tiene el siguiente formato en CSV: deberían llevar un icono de link a no ser que en la url ponga youtube que debería llevar un icono de youtube
+   Titulo, url
+ 2.3 Videos. Para ello hay un fichero que se llama videos.txt que tiene un link del youtube de cada vídeo. Ponerles un icono de video y llamarles "video 1", "video 2", ...
+ 2.1 fichero teaser.jpg que es la imagen que se pondrá de icono del paper
+ 
+ Del refBase se puede sacar:
+  1. Autores, año, titulo, conferencia/journal + abreviación, abstract y bibtex
+  
+ Guiarse por esta web para el estilo y campos: http://www.cvlibs.net/publications.php
